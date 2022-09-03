@@ -6,7 +6,7 @@ As the main customer for the Newburgh, NY Terminal yard checks are done by our d
 
 ## Finished Sheet
 
-<a ref="https://docs.google.com/spreadsheets/d/1uK5SkBqNS1JtcgBdN_emZWEh6T3XF4gg034D8EL2WAM/">Newark Yard Check</a>
+<a href="https://docs.google.com/spreadsheets/d/1uK5SkBqNS1JtcgBdN_emZWEh6T3XF4gg034D8EL2WAM/">Newark Yard Check</a>
 
 ## Background Information
 
